@@ -2,6 +2,7 @@
 
 ## Servicios
 [JSON Placeholder](https://jsonplaceholder.typicode.com/) API con endpoints para jugar
+
 [Scaley](https://scaley.io/) Servicio para manipulación de imágenes
 
 ##Atom
