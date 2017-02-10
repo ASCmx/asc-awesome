@@ -16,3 +16,8 @@
 ##Vue.js
 * [Why we chose Vue.js?](https://about.gitlab.com/2016/10/20/why-we-chose-vue)
 * [Vue Formly.](https://github.com/formly-js/vue-formly) Generación y validación de formularios Formly para Vue.
+
+##Backend
+* [FeathersJS] (http://feathersjs.com/) An open source REST and realtime API layer for modern applications.
+* [Sequelize] (http://sequelizejs.com) The Node.js / io.js ORM for PostgreSQL, MySQL, SQLite and MSSQL
+* [PostgreSQL] (https://www.postgresql.org/) PostgreSQL is a powerful, open source object-relational database system.
