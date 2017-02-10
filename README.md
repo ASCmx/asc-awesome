@@ -13,3 +13,4 @@
 
 ##Vue.js
 [Why we chose Vue.js?](https://about.gitlab.com/2016/10/20/why-we-chose-vue)
+[Vue Formly.](https://github.com/formly-js/vue-formly) Generacin y validación de formularios Formly para Vue.
