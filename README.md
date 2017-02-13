@@ -8,14 +8,18 @@
 * [Sequelize] (http://sequelizejs.com) The Node.js / io.js ORM for PostgreSQL, MySQL, SQLite and MSSQL
 * [PostgreSQL] (https://www.postgresql.org/) PostgreSQL is a powerful, open source object-relational database system.
 
-## CSS
+##CSS
 * [How Flexbox works](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
 
 ##JavaScript
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 * [JS web frameworks benchmark – Round 5](http://www.stefankrause.net/js-frameworks-benchmark5/webdriver-ts/table.html)
 
-## Servicios
+##Otros
+* [How Google builds web frameworks](https://medium.freecodecamp.com/how-google-builds-a-web-framework-5eeddd691dea#.jb8iw5dzs)
+* [Remote by default](https://vimeo.com/96692943)
+
+##Servicios
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) API con endpoints para jugar
 * [Scaley](https://scaley.io/) Servicio para manipulación de imágenes
 
