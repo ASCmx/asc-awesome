@@ -7,6 +7,7 @@
 * [FeathersJS] (http://feathersjs.com/) An open source REST and realtime API layer for modern applications.
 * [Sequelize] (http://sequelizejs.com) The Node.js / io.js ORM for PostgreSQL, MySQL, SQLite and MSSQL
 * [PostgreSQL] (https://www.postgresql.org/) PostgreSQL is a powerful, open source object-relational database system.
+* [Is PostgreSQL good enough?] (http://renesd.blogspot.mx/2017/02/is-postgresql-good-enough.html)
 
 ##CSS
 * [How Flexbox works](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
