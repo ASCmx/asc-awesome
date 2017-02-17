@@ -17,6 +17,7 @@
 * [JS web frameworks benchmark – Round 5](http://www.stefankrause.net/js-frameworks-benchmark5/webdriver-ts/table.html)
 * [Callback hell](http://www.conocimientosfinancieros.com/aviso-de-privacidad/) Que es el Callback Hell y como evitarlo
 * [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
+* [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.gghgooz4t)
 
 ##Otros
 * [How Google builds web frameworks](https://medium.freecodecamp.com/how-google-builds-a-web-framework-5eeddd691dea#.jb8iw5dzs)
