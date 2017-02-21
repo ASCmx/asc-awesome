@@ -24,6 +24,9 @@
 * [How Google builds web frameworks](https://medium.freecodecamp.com/how-google-builds-a-web-framework-5eeddd691dea#.jb8iw5dzs)
 * [Remote by default](https://vimeo.com/96692943)
 
+##Programación
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+
 ##Servicios
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) API con endpoints para jugar
 * [Scaley](https://scaley.io/) Servicio para manipulación de imágenes
