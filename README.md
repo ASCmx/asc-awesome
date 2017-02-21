@@ -9,6 +9,7 @@
 * [PostgreSQL] (https://www.postgresql.org/) PostgreSQL is a powerful, open source object-relational database system.
 * [Is PostgreSQL good enough?] (http://renesd.blogspot.mx/2017/02/is-postgresql-good-enough.html)
 * [A Better ID Generator For PostgreSQL](http://rob.conery.io/2014/05/29/a-better-id-generator-for-postgresql/)
+* [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
 
 ##CSS
 * [How Flexbox works](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
