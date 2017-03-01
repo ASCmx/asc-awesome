@@ -20,6 +20,7 @@
 * [Callback hell](http://callbackhell.com/) Que es el Callback Hell y como evitarlo
 * [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
 * [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.gghgooz4t)
+* [Fullstack Feathersjs and React Web App](https://www.youtube.com/playlist?list=PLN3n1USn4xlnulnnBGD2RMid_p7xVj9xU)
 
 ##Otros
 * [How Google builds web frameworks](https://medium.freecodecamp.com/how-google-builds-a-web-framework-5eeddd691dea#.jb8iw5dzs)
