@@ -1,9 +1,9 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
 
-##Atom
+## Atom
 * [Keymaps de Pier](https://gist.github.com/PierBover/c105e722935b1a3df0f492994bb6847e)
 
-##Backend
+## Backend
 * [FeathersJS] (http://feathersjs.com/) An open source REST and realtime API layer for modern applications.
 * [Sequelize] (http://sequelizejs.com) The Node.js / io.js ORM for PostgreSQL, MySQL, SQLite and MSSQL
 * [PostgreSQL] (https://www.postgresql.org/) PostgreSQL is a powerful, open source object-relational database system.
@@ -11,10 +11,10 @@
 * [A Better ID Generator For PostgreSQL](http://rob.conery.io/2014/05/29/a-better-id-generator-for-postgresql/)
 * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
 
-##CSS
+## CSS
 * [How Flexbox works](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
 
-##JavaScript
+## JavaScript
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 * [JS web frameworks benchmark – Round 5](http://www.stefankrause.net/js-frameworks-benchmark5/webdriver-ts/table.html)
 * [Callback hell](http://callbackhell.com/) Que es el Callback Hell y como evitarlo
@@ -22,18 +22,19 @@
 * [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.gghgooz4t)
 * [Fullstack Feathersjs and React Web App](https://www.youtube.com/playlist?list=PLN3n1USn4xlnulnnBGD2RMid_p7xVj9xU)
 * [MASTER JAVASCRIPT PROGRAMMING WITH 18 OPEN-SOURCE BOOKS](https://www.ossblog.org/master-javascript-programming-with-open-source-books/)
+* [JavaScript best practices for developing apps](https://www.youtube.com/watch?v=evv3uUqE_Ok)
 
-##Otros
+## Otros
 * [How Google builds web frameworks](https://medium.freecodecamp.com/how-google-builds-a-web-framework-5eeddd691dea#.jb8iw5dzs)
 * [Remote by default](https://vimeo.com/96692943)
 
-##Programación
+## Programación
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
-##Servicios
+## Servicios
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) API con endpoints para jugar
 * [Scaley](https://scaley.io/) Servicio para manipulación de imágenes
 
-##Vue.js
+## Vue.js
 * [Why we chose Vue.js?](https://about.gitlab.com/2016/10/20/why-we-chose-vue)
 * [Vue Formly.](https://github.com/formly-js/vue-formly) Generación y validación de formularios Formly para Vue.
