@@ -23,6 +23,7 @@
 * [Fullstack Feathersjs and React Web App](https://www.youtube.com/playlist?list=PLN3n1USn4xlnulnnBGD2RMid_p7xVj9xU)
 * [MASTER JAVASCRIPT PROGRAMMING WITH 18 OPEN-SOURCE BOOKS](https://www.ossblog.org/master-javascript-programming-with-open-source-books/)
 * [JavaScript best practices for developing apps](https://www.youtube.com/watch?v=evv3uUqE_Ok)
+* [JavaScript and Object Models](https://gist.github.com/aexmachina/2148c6e3a06674fa187b)
 
 ## Otros
 * [How Google builds web frameworks](https://medium.freecodecamp.com/how-google-builds-a-web-framework-5eeddd691dea#.jb8iw5dzs)
