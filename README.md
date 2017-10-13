@@ -50,3 +50,4 @@
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) Traps, Gotchas, and Common Mistakes for New Golang Devs
 * [Go on Heroku](https://devcenter.heroku.com/categories/go)
+* [Go database sql](http://go-database-sql.org/overview.html)
