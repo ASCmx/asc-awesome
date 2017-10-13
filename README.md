@@ -40,7 +40,7 @@
 * [Why we chose Vue.js?](https://about.gitlab.com/2016/10/20/why-we-chose-vue)
 * [Vue Formly.](https://github.com/formly-js/vue-formly) Generación y validación de formularios Formly para Vue.
 
-##Go
+## Go
 * [Go Lang](https://golang.org)
 * [Go Docs](https://godoc.org)
 * [Go by example](https://gobyexample.com) Ejemplos con anotaciones
