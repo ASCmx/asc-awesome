@@ -4,8 +4,6 @@
 * [Keymaps de Pier](https://gist.github.com/PierBover/c105e722935b1a3df0f492994bb6847e)
 
 ## Backend
-* [FeathersJS] (http://feathersjs.com/) An open source REST and realtime API layer for modern applications.
-* [Sequelize] (http://sequelizejs.com) The Node.js / io.js ORM for PostgreSQL, MySQL, SQLite and MSSQL
 * [PostgreSQL] (https://www.postgresql.org/) PostgreSQL is a powerful, open source object-relational database system.
 * [Is PostgreSQL good enough?] (http://renesd.blogspot.mx/2017/02/is-postgresql-good-enough.html)
 * [A Better ID Generator For PostgreSQL](http://rob.conery.io/2014/05/29/a-better-id-generator-for-postgresql/)
@@ -51,3 +49,4 @@
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) Traps, Gotchas, and Common Mistakes for New Golang Devs
 * [Go on Heroku](https://devcenter.heroku.com/categories/go)
 * [Go database sql](http://go-database-sql.org/overview.html)
+* [Going Go Programming](https://www.goinggo.net)
