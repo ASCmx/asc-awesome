@@ -4,8 +4,8 @@
 * [Keymaps de Pier](https://gist.github.com/PierBover/c105e722935b1a3df0f492994bb6847e)
 
 ## Backend
-* [PostgreSQL] (https://www.postgresql.org/) PostgreSQL is a powerful, open source object-relational database system.
-* [Is PostgreSQL good enough?] (http://renesd.blogspot.mx/2017/02/is-postgresql-good-enough.html)
+* [PostgreSQL](https://www.postgresql.org/) PostgreSQL is a powerful, open source object-relational database system.
+* [Is PostgreSQL good enough?](http://renesd.blogspot.mx/2017/02/is-postgresql-good-enough.html)
 * [A Better ID Generator For PostgreSQL](http://rob.conery.io/2014/05/29/a-better-id-generator-for-postgresql/)
 * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
 
