@@ -32,6 +32,7 @@
 
 ## Servicios
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) API con endpoints para jugar
+* [HTTP Bin](https://httpbin.org/) API para jugar
 * [Scaley](https://scaley.io/) Servicio para manipulación de imágenes
 
 ## Vue.js
