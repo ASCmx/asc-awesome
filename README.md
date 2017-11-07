@@ -29,6 +29,7 @@
 
 ## Programación
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ## Servicios
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) API con endpoints para jugar
