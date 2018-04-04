@@ -28,6 +28,7 @@
 * [Go on Heroku](https://devcenter.heroku.com/categories/go)
 * [Go database sql](http://go-database-sql.org/overview.html)
 * [Going Go Programming](https://www.goinggo.net)
+* [JSON-to-Go](https://mholt.github.io/json-to-go) Convert JSON to Go struct
 
 ## JavaScript
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
@@ -35,7 +36,6 @@
 * [Callback hell](http://callbackhell.com/) Que es el Callback Hell y como evitarlo
 * [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
 * [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75#.gghgooz4t)
-* [Fullstack Feathersjs and React Web App](https://www.youtube.com/playlist?list=PLN3n1USn4xlnulnnBGD2RMid_p7xVj9xU)
 * [MASTER JAVASCRIPT PROGRAMMING WITH 18 OPEN-SOURCE BOOKS](https://www.ossblog.org/master-javascript-programming-with-open-source-books/)
 * [JavaScript best practices for developing apps](https://www.youtube.com/watch?v=evv3uUqE_Ok)
 * [JavaScript and Object Models](https://gist.github.com/aexmachina/2148c6e3a06674fa187b)
