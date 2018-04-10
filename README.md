@@ -30,6 +30,15 @@
 * [Going Go Programming](https://www.goinggo.net)
 * [JSON-to-Go](https://mholt.github.io/json-to-go) Convert JSON to Go struct
 
+## Herramientas
+* [Alfred](https://www.alfredapp.com) Superpoderes para la Mac
+* [Diagrammix](https://itunes.apple.com/mx/app/diagrammix/id418534796?l=en&mt=12) Software para hacer diagramas (Mac)
+* [Postgres](http://postgresapp.com) Instala la base de datos Postgres (Mac)
+* [Postico](https://eggerapps.at/postico/) Cliente de Postgres (Mac)
+* [Postman](https://www.getpostman.com) Cliente para trabajar con APIs (Mac/Windows/Linux)
+* [SQLEditor](http://www.malcolmhardie.com/sqleditor/index.html) Software para diseño de bases de datos (Mac)
+* [Tower](https://www.git-tower.com) Software para GIT (Mac/Windows)
+
 ## JavaScript
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 * [JS web frameworks benchmark – Round 5](http://www.stefankrause.net/js-frameworks-benchmark5/webdriver-ts/table.html)
