@@ -29,6 +29,7 @@
 * [Go database sql](http://go-database-sql.org/overview.html)
 * [Going Go Programming](https://www.goinggo.net)
 * [JSON-to-Go](https://mholt.github.io/json-to-go) Convert JSON to Go struct
+* [Go Tutorial for Beginners](https://golangbot.com/)
 
 ## Herramientas
 * [Alfred](https://www.alfredapp.com) Superpoderes para la Mac
