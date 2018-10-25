@@ -49,6 +49,7 @@
 * [MASTER JAVASCRIPT PROGRAMMING WITH 18 OPEN-SOURCE BOOKS](https://www.ossblog.org/master-javascript-programming-with-open-source-books/)
 * [JavaScript best practices for developing apps](https://www.youtube.com/watch?v=evv3uUqE_Ok)
 * [JavaScript and Object Models](https://gist.github.com/aexmachina/2148c6e3a06674fa187b)
+* [5 Tips to Write Better Conditionals in JavaScript](https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript)
 
 ## Otros
 * [How Google builds web frameworks](https://medium.freecodecamp.com/how-google-builds-a-web-framework-5eeddd691dea#.jb8iw5dzs)
